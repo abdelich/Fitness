@@ -1,0 +1,12 @@
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\CodeBlogFitness.BL.dll.config
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\CodeBlogFitness.BL.dll
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\CodeBlogFitness.BL.pdb
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\EntityFramework.dll
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\EntityFramework.xml
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.csprojAssemblyReference.cache
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.csproj.CoreCompileInputs.cache
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.csproj.CopyComplete
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.dll
+E:\My Course\(4)Web course\vadim\#2 Фитнес приложение\CodeBlogFitness-master\CodeBlogFitness.BL\obj\Debug\CodeBlogFitness.BL.pdb
